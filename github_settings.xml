@@ -1,0 +1,8 @@
+<application>
+  <component name="GithubSettings">
+    <option name="LOGIN" value="1332850274@qq.com" />
+    <option name="HOST" value="https://github.com/YangYunhua/web_study.git" />
+    <option name="AUTH_TYPE" value="BASIC" />
+    <option name="CONNECTION_TIMEOUT" value="21000" />
+  </component>
+</application>
